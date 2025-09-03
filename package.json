@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://daedalus-stem.github.io/home/",
+  "homepage": "https://daedalus-stem.github.io/daedalus-website",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

@@ -16,7 +16,7 @@ const Navbar = () => {
         style={{ fontWeight: "bold" }}
       >
         <img
-          src="/logo/Daedalus-logo-full2.svg"
+          src="/daedalus-website/logo/Daedalus-logo-full2.svg"
           width="200"
           height="25"
           alt="Daedalus Logo"

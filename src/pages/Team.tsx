@@ -130,7 +130,7 @@ const Team = () => {
             </header>
             <div className="w3-container">
               <img
-                src={'/daedalus-website/' + selectedMember.img}
+                src={'/daedalus-website' + selectedMember.img}
                 alt={selectedMember.name}
                 className="w3-image w3-margin-bottom"
                 style={{ maxHeight: 200, borderRadius: "6px" }}
