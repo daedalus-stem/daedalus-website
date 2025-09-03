@@ -69,7 +69,7 @@ const Team = () => {
       <TextImageBlock
         title="Team"
         text=" We are the STEM Racing team Daedalus, debuting for the 2025-26 season. Comprised of 5 students from Wesley College, Perth, our team enters this competition with an approach centred around craftsmanship, community outreach, and innovation."
-        image="team/team2.jpg"
+        image="/daedalus-website/team/team2.jpg"
         reverse
       />
 
@@ -130,7 +130,7 @@ const Team = () => {
             </header>
             <div className="w3-container">
               <img
-                src={selectedMember.img}
+                src={'/daedalus-website/' + selectedMember.img}
                 alt={selectedMember.name}
                 className="w3-image w3-margin-bottom"
                 style={{ maxHeight: 200, borderRadius: "6px" }}
