@@ -13,7 +13,7 @@ const Home = () => {
             centred around craftsmanship, community outreach and innovation. Join us in our journey to world finals.
           </p>
         }
-        image="/daedalus-website//team/team1.jpg"
+        image="/team/team1.jpg"
       />
       <TextImageBlock
         title="STEM Racing"
@@ -25,7 +25,7 @@ const Home = () => {
             on a 20m track.
           </p>
         }
-        image="/daedalus-website//stock/stemracing.png"
+        image="/stock/stemracing.png"
         reverse
         background="w3-light-grey"
       />
@@ -39,7 +39,7 @@ const Home = () => {
             passion in subjects that drive technological innovation and solve real-world challenges.
           </p>
         }
-        image="/daedalus-website//stock/stemfeature.jpg"
+        image="/stock/stemfeature.jpg"
       />
       <TextImageBlock
         title="The Competition"
@@ -51,7 +51,7 @@ const Home = () => {
             innovation, collaboration, and attention to detail in all aspects of the project.
           </p>
         }
-        image="/daedalus-website//stock/carsracing.jpg"
+        image="/stock/carsracing.jpg"
         reverse
         background="w3-light-grey"
       />
@@ -63,7 +63,7 @@ const Home = () => {
             We are debuting this season, yet we have a wealth of experience and knowledge.
           </p>
         }
-        image="/daedalus-website//team/team2.jpg"
+        image="/team/team2.jpg"
       />
       <TextImageBlock
         title="Sponsorships"
@@ -73,7 +73,7 @@ const Home = () => {
             and support funding for our STEM Racing journey.
           </p>
         }
-        image="/daedalus-website//team/ray.jpg"
+        image="/team/ray.jpg"
         reverse
         background="w3-light-grey"
       />

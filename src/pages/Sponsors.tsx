@@ -19,7 +19,7 @@ const Sponsors = () => {
             </p>
           </>
         }
-        image="/daedalus-website//sponsors/platinum.jpg"
+        image="/sponsors/platinum.jpg"
         reverse
       />
 
@@ -35,7 +35,7 @@ const Sponsors = () => {
             </p>
           </>
         }
-        image="/daedalus-website//sponsors/gold.jpg"
+        image="/sponsors/gold.jpg"
         background="w3-light-grey"
       />
 
@@ -50,7 +50,7 @@ const Sponsors = () => {
             </p>
           </>
         }
-        image="/daedalus-website//sponsors/silver.jpg"
+        image="/sponsors/silver.jpg"
         reverse
       />
 
@@ -64,7 +64,7 @@ const Sponsors = () => {
             </p>
           </>
         }
-        image="/daedalus-website//sponsors/bronze.jpg"
+        image="/sponsors/bronze.jpg"
         background="w3-light-grey"
       />
 
@@ -89,7 +89,7 @@ const Sponsors = () => {
             </Link>
           </>
         }
-        image="/daedalus-website//team/ray.jpg"
+        image="/team/ray.jpg"
         reverse
       />
     </div>
