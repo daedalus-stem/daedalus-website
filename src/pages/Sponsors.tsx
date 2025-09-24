@@ -19,7 +19,7 @@ const Sponsors = () => {
             </p>
           </>
         }
-        image="/sponsors/platinum.jpg"
+        image="sponsors/platinum.jpg"
         reverse
       />
 
@@ -35,7 +35,7 @@ const Sponsors = () => {
             </p>
           </>
         }
-        image="/sponsors/gold.jpg"
+        image="sponsors/gold.jpg"
         background="w3-light-grey"
       />
 
@@ -50,7 +50,7 @@ const Sponsors = () => {
             </p>
           </>
         }
-        image="/sponsors/silver.jpg"
+        image="sponsors/silver.jpg"
         reverse
       />
 
@@ -64,7 +64,7 @@ const Sponsors = () => {
             </p>
           </>
         }
-        image="/sponsors/bronze.jpg"
+        image="sponsors/bronze.jpg"
         background="w3-light-grey"
       />
 
@@ -89,7 +89,7 @@ const Sponsors = () => {
             </Link>
           </>
         }
-        image="/team/ray.jpg"
+        image="team/ray.jpg"
         reverse
       />
     </div>
